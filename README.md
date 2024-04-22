@@ -1,4 +1,4 @@
-# Wiki-Netoworks
+# Wiki-Networks
 
 This is a small personal project experimenting with web-scraping and network theory.
 
